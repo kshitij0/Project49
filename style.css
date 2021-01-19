@@ -1,0 +1,30 @@
+html,body{
+    background-image:linear-gradient(to right,#803079,#b8c916);
+}
+.b{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+
+}
+
+.img1 {
+    display:flex;
+    justify-content: space-between;
+    margin:10px
+  
+
+}
+
+.des2{
+    position: absolute;
+    top:35%;
+    left:35%;
+    
+}
+.des3{
+    position: absolute;
+    left:75%;
+    top:35%;
+
+}
